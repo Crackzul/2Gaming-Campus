@@ -4,6 +4,8 @@
 @font-face {
     font-family: 'Montserrat';
     src: url(../Assets/font/Montserrat/static/Montserrat-Regular.ttf);
+}
+@font-face {
     font-family: 'Raleway';
     src: url(../Assets/font/Raleway/static/Raleway-Regular.ttf);
 }
